@@ -1,2 +1,2 @@
 Hola buenas noches
-Bienvenidos a la sesion de Git en donde estamos haciendo una validadciones basicas.
+Bienvenidos a la sesion de Git.
